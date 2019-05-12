@@ -1,3 +1,5 @@
+require_relative '../congig/environment'
+
 Hashie
 Sinatra
 Octokit
