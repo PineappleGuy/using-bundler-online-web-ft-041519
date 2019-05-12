@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+source "ttps://github.com"
 
 gem 'sinatra', '1.4.4'
 
