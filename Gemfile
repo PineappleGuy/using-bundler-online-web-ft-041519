@@ -6,7 +6,7 @@
 
   gem 'hashie'
 
-  gem 'awesome_print', git@github.com:michaeldv/awesome_print.git
+  gem 'awesome_print', git: 'git@github.com:michaeldv/awesome_print.git'
 
   group :development do
     gem "pry"
